@@ -1,0 +1,24 @@
+{
+  "name": "PruebaPracticaSolati",
+  "version": "1.0.0",
+  "description": "Repositorio donde realizo una prueba practica de desarrollo de software orientado a la parte del back-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Osnayder/PruebaPracticaSolati.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Osnayder/PruebaPracticaSolati/issues"
+  },
+  "homepage": "https://github.com/Osnayder/PruebaPracticaSolati#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
